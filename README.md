@@ -22,7 +22,7 @@ This Python script enables scraping real estate data from Zillow by utilizing th
 
 ## Configuration
 
-- Set your Scraper API key in the `SCRAPER_API_KEY` variable.
+- Set your [Scraper API](https://www.scraperapi.com/?fp_ref=python_automation) key in the `SCRAPER_API_KEY` variable.
 
 ## Note
 

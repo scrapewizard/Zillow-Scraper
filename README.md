@@ -11,7 +11,7 @@ This Python script enables scraping real estate data from Zillow by utilizing th
 
 ## Usage
 
-1. Provide a Zillow search URL when prompted.
+1. **Provide a Zillow search URL when prompted.** Ensure to apply necessary filters to refine your number of results, considering Zillow's cap limit of 800 results.
 2. Specify the output file name (e.g., `data.xlsx`) for storing the extracted data.
 
 ## Dependencies

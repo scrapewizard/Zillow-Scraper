@@ -23,6 +23,7 @@ This Python script enables scraping real estate data from Zillow by utilizing th
 ## Configuration
 
 - Set your [Scraper API](https://www.scraperapi.com/?fp_ref=python_automation) key in the `SCRAPER_API_KEY` variable.
+  Scraper API comes with 1k credits trial enough to retrieve up to 40k properties monthly for free. If you need more tests then you need to get a subscription
 
 ## Note
 
